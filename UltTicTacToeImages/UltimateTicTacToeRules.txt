@@ -1,0 +1,13 @@
+Ultimate Tic Tac Toe is a fresh spin on the classic Tic Tac Toe. Here is how to play!
+
+
+The board consists of 9 regular Tic Tac Toe boards arranged in a bigger Tic Tac Toe board. To start, you can play in any spot. 
+
+When you do your turn, your opponent has to place their letter in the corresponding board relative to where you placed the letter in the smaller board.
+
+For example, if I place my X in the top right of a small board, the opponent has to place their O in the top right small board. If O then places their letter in the center, X has to place their letter in the center small board.
+
+Your goal is to make a three in a row on the big board. Whenever someone gets a three in a row on the small board, they win it. Have 3 won small boards in a row, you win!
+
+If the small board you have to go to is already claimed, you can put your letter in any available spot. 
+
